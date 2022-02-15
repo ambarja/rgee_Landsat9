@@ -5,7 +5,6 @@ library(cptcity)
 ee_Initialize()
 
 # 1. Study area -----------------------------------------------------------
-
 ica <- ee$Geometry$Rectangle(
   c(-75.9080,-14.3925,-75.4355,-13.8784),
   geodesic = FALSE,
