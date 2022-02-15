@@ -1,7 +1,7 @@
 # Working with landsat-9 with rgee + rgeeExtra 
-<center>
+<p align="center">
   <img src="rgee.gif" width="50%">
-</center>
+</p>
 <div>
 <div align="center">
 <a href="https://ko-fi.com/ambarja">
